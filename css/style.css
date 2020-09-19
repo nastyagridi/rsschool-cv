@@ -1,0 +1,78 @@
+.wrapper {
+	background-color: red;
+	width: 80%;
+	margin: auto;
+}
+h1 {
+	font-family: 'Spartan', sans-serif;
+	font-size: 40px;
+	color: #373741;
+	margin-top: 10px;
+}
+h3 {
+	font-family: 'Spartan', sans-serif;
+	font-size: 30px;	
+	text-transform: uppercase;
+	margin: 50px 0 0 20px;
+}
+hr {
+	border: 1px solid #ff9d8e;
+	margin: 5px auto;
+	width: 580px;
+}
+header {
+	background-color: #ff9d8e;
+	width: 100%;
+	height: 100px;
+	padding: 20px;
+}
+header img {
+	float: left;
+	width: 15%;
+}
+header p {
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	margin-top: 10px;
+	color: #373741;
+}
+.personalInfo {
+	width: 100%;
+}
+.generalInfo {
+	width: 40%;
+	background-color: #373741;
+	padding: 20px 0 0 20px;
+	float: left;
+}
+.generalInfo article {
+	color: #fff;
+}
+.generalInfo article p {
+	font-family: 'Lato', sans-serif;
+	margin-top: 15px;
+	margin-left: 20px;
+	font-size: 15px;
+	line-height: 20px;
+}
+.contacts {
+	padding-bottom: 200px;
+}
+.otherInfo {
+	width: 58%;
+	float: left;
+	padding-top: 20px;
+}
+.otherInfo article {
+	color: #373741;
+}
+.otherInfo article p {
+	font-family: 'Lato', sans-serif;
+	margin-top: 15px;
+	margin-left: 20px;
+	font-size: 15px;
+	line-height: 20px;
+}
+.lastParagraph {
+	padding-bottom: 40px;
+}
